@@ -6,8 +6,8 @@ It also have a reset button which let you reset the containers/Boxes to their or
 
 # How to use ?
 
-You can copy the code directly or create clone of this repo in you desktop and run the website 
+You can copy the code directly or create a clone of this repo in your desktop and run the website 
 
-On the website Drag any item of you choice from the left container/box and drop it into the right container/box 
+On the website Drag any item of your choice from the left container/box and drop it into the right container/box 
 
 To reset the container to thier original state , click on the reset button
