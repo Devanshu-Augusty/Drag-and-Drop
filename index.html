@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drag & Drop</title>
+    <link rel="stylesheet" href="drag.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <!-- left container/Box from which we will drag -->
+        <div class="boxes" id="left">
+            <div class="list" draggable="true">C++</div>
+            <div class="list" draggable="true">Python</div>
+            <div class="list" draggable="true">Java</div>
+            <div class="list" draggable="true">Javascript</div>
+        </div>
+
+        <!-- right container/Box on which we will drop -->
+        <div class="boxes" id="right"></div>
+
+    </div>
+    <div class="reset">
+        <!-- reset button to reset the containers/Boxes to there original state -->
+        <button onclick="reload()" type="button">
+            Reset
+        </button>
+    </div>
+
+    <script src="drag.js"></script>
+
+</body>
+
+</html>
