@@ -10,4 +10,4 @@ You can copy the code directly or create a clone of this repo in your desktop an
 
 On the website Drag any item of your choice from the left container/box and drop it into the right container/box 
 
-To reset the container to thier original state , click on the reset button
+To reset the container to their original state , click on the reset button
